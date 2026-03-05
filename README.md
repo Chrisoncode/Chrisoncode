@@ -17,3 +17,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisoncode&show_icons=true&locale=en&layout=compact" alt="chrisoncode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisoncode&" alt="chrisoncode" /></p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bastos88/bastos88/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bastos88/bastos88/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bastos88/bastos88/output/pacman-contribution-graph.svg">
+</picture>
+
+###
