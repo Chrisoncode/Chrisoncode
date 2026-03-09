@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chrisoncode</h1>
-<h3 align="center">A cybersecurity student passionate about ethical hacking and OOP. Trying to solve daily problems I encounter using the power of code >_^</h3>
+<h3 align="center">A cybersecurity student, passionate about ethical hacking and OOP. Trying to solve daily problems I encounter using the power of code >_^</h3>
 
 - 🌱 I’m currently learning **kali, cryptography and digital forensics**
 
